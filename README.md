@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adwaith R Rajesh</h1>
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width='full'/>
+<h1 align="center">Hi 👋, I'm Adwaith R Rajesh</h1>
 <h3 align="center">I am an enthusiastic tech devotee, always immersed in the pursuit of knowledge and personal development. As a dedicated lifelong learner, I consistently gravitate towards the wonders of technology, fueled by an unyielding curiosity to delve into and decipher its intricate intricacies.</h3>
 - 💬 Ask me about **React, Node js, MongoDB, TypeScript, Express, Git, Angular, Javascript, Docker, Python.**
 - 📫 How to reach me **adwaithrrajesh.k@gmail.com**
