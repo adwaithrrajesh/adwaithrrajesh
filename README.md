@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adwaith R Rajesh</h1>
 <h3 align="center">A tech Enthusiast who loves to do coding</h3>
-
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adwaithrrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adwaithrrajesh" height="30" width="40" /></a>
