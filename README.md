@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adwaith R Rajesh</h1>
+\<h1 align="center">Hi 👋, I'm Adwaith R Rajesh</h1>
 <h3 align="center">I am an enthusiastic tech devotee, always immersed in the pursuit of knowledge and personal development. As a dedicated lifelong learner, I consistently gravitate towards the wonders of technology, fueled by an unyielding curiosity to delve into and decipher its intricate intricacies.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adwaithrrajesh&label=Profile%20views&color=0e75b6&style=flat" alt="adwaithrrajesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adwaithrrajesh&theme=" alt="adwaithrrajesh" /></a> </p>
-
 - 💬 Ask me about **React, Node js, MongoDB, TypeScript, Express, Git, Angular, Javascript, Docker, Python.**
 - 📫 How to reach me **adwaithrrajesh.k@gmail.com**
 
@@ -50,6 +46,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaithrrajesh&hide_progress=true&theme=dark" alt=adwaithrrajesh />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=adwaithrrajesh&show_icons=true&locale=en&theme=dark" alt="adwaithrrajesh" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adwaithrrajesh&theme=dark" alt="adwaithrrajesh" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
