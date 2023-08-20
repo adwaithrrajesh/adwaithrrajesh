@@ -1,4 +1,4 @@
- <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="LinkedIn Profile Banner" style="display: block; max-width: 100%; height: auto;"/>
+<img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif" width='full'/>
 <h1 align="center">Hi 👋, I'm Adwaith R Rajesh</h1>
 <h3 align="center">I am an enthusiastic tech devotee, always immersed in the pursuit of knowledge and personal development. As a dedicated lifelong learner, I consistently gravitate towards the wonders of technology, fueled by an unyielding curiosity to delve into and decipher its intricate intricacies.</h3>
 - 💬 Ask me about **React, Node js, MongoDB, TypeScript, Express, Git, Angular, Javascript, Docker, Python.**
