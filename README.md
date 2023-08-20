@@ -1,4 +1,4 @@
-<h1 align="center">Adwaith R Rajesh 👨‍💻</h1>
+<h1 align="center">👨‍💻 Adwaith R Rajesh</h1>
 <img src="https://ardas-it.com/uploads/images/blogs/giph.gif" width='100%'/>
 <h3 align="center">I am an enthusiastic tech devotee, always immersed in the pursuit of knowledge and personal development. As a dedicated lifelong learner, I consistently gravitate towards the wonders of technology, fueled by an unyielding curiosity to delve into and decipher its intricate intricacies.</h3>
 - 💬 Ask me about **React, Node js, MongoDB, TypeScript, Express, Git, Angular, Javascript, Docker, Python.**
