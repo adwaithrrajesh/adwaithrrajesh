@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adwaithrrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adwaithrrajesh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adwaithrrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaithrrajesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adwaith-r-rajesh-333545243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaith-r-rajesh-333545243" height="30" width="40" /></a>
 <a href="https://instagram.com/adwaithrrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adwaithrrajesh" height="30" width="40" /></a>
 <a href="https://medium.com/@adwaithrrajesh.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adwaithrrajesh.k" height="30" width="40" /></a>
 </p>
