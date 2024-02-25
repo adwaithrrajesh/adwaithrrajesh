@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adwaith R Rajesh 👨‍💻 </h1>
+<h1 align="center">Hi, I'm Adwaith R Rajesh 👨‍💻 </h1>
 <img src="https://i2.wp.com/developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width='100%'/>
 <h3 align="center">I am an enthusiastic tech devotee, always immersed in the pursuit of knowledge and personal development. As a dedicated lifelong learner, I consistently gravitate towards the wonders of technology, fueled by an unyielding curiosity to delve into and decipher its intricate intricacies.</h3>
 - 💬 Ask me about **React, Node js, MongoDB, TypeScript, Express, Git, Angular, Javascript, Docker, Python.**
