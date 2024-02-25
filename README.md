@@ -51,13 +51,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=adwaithrrajesh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaithrrajesh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=adwaithrrajesh&theme=dark&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adwaithrrajesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaithrrajesh&hide_progress=true&theme=dark" alt=adwaithrrajesh />
