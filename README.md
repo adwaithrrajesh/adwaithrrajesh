@@ -1,4 +1,3 @@
-# 💫 About Me:
 🔭 Working as a software developer<br>
 
 
