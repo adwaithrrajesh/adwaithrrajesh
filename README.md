@@ -1,2 +1,2 @@
-# Hi 🌟 I am Adwaith R Rajesh 🖱
-🔭 Working as a software developer<br>
+# Hey there, I am Adwaith R Rajesh 🖱
+🔭 Just a tech <br>
